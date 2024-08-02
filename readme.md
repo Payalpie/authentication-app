@@ -20,3 +20,17 @@ docker-compose up --build
 ## Run the application:
 
 Open browser and goto [http://localhost:3000](http://localhost:3000)
+
+## Screenshots
+
+### Signup Page
+
+![Signup Page](./2.png)
+
+### Login Page
+
+![Login Page](./1.png)
+
+### Welcome Page
+
+![Welcome Page](./3.png)
